@@ -4,4 +4,4 @@ L1 = True
 L2 = True
 L3 = True
 
-DEBUG = True
+DEBUG = False
